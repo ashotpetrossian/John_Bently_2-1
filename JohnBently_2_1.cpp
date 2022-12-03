@@ -6,7 +6,7 @@
     the index is not important I mean, the only thing I care about, is the count of numbers,
     after defining the numbers which are less or greater they are tranported to another files,
     after that I choose which file cas more differences and make that file the main file,
-    the recursion than starts from considering only that file, olready divided by 2, clears the 
+    the recursion than starts from considering only that file, already divided by 2, clears the 
     helping files and do the same thing until I have 1 difference, then it's easy, I count the 
     sum that should be and the sum that exists in the reamining file, substracting I find the 
     missing number!!!
